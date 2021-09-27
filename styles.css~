@@ -1,0 +1,21 @@
+body {
+	background-color: AliceBlue;
+}
+
+a:link { 
+    color: DeepSkyBlue;
+}
+
+a:visited { 
+    color: CornflowerBlue;
+}
+
+a:hover { 
+    color: PaleTurquoise;
+}
+
+p { 
+    color: DarkSlateGrey
+    text-align: center;
+
+}

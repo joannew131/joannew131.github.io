@@ -1,0 +1,33 @@
+body {
+	background-color: AliceBlue;
+}
+
+a:link { 
+    color: DeepSkyBlue;
+}
+
+a:visited { 
+    color: CornflowerBlue;
+}
+
+a:hover { 
+    color: PaleTurquoise;
+}
+
+p { 
+    color: DarkTurquoise;
+    text-align: center;
+}
+
+h1{ 
+    color: DarkBlue;
+    font-family:  "Lucida Handwriting", cursive;
+}
+
+h2{ 
+    color: DarkSlateGrey;
+ }
+
+hr.dotted{ 
+     border-top: 3px dotted #FFF;
+ }
